@@ -29,7 +29,7 @@ export default function PlaskListUI() {
 
   return (
     <Wrap>
-      <ListSubTitle>2020년 신상 의류</ListSubTitle>
+      <ListSubTitle>2021년 신상 의류</ListSubTitle>
       <ListTitle>데일리 정장</ListTitle>
       <ListButtonBox>
         <ListBtn>낮은 가격</ListBtn>

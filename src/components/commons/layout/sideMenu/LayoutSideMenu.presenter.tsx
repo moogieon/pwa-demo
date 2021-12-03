@@ -15,7 +15,7 @@ export default function SideMenuWrapUI() {
       <MenuTitle>New Releases</MenuTitle>
       <MenuList>
         <ListTitleBox>
-          <ListTitle>2020년 신상 의류</ListTitle>
+          <ListTitle>2021년 신상 의류</ListTitle>
           <ListOpenBtn src="/icon/Arrow.svg" />
         </ListTitleBox>
         <ListText>탑 & 티셔츠</ListText>
